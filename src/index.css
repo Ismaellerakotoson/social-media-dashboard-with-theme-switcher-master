@@ -26,3 +26,11 @@
   --color-light-text: hsl(228, 12%, 44%);
   --color-light-title: hsl(230, 17%, 14%);
 }
+.border-image-instagram {
+  border-image: linear-gradient(
+    to right,
+    hsl(37, 97%, 70%),
+    hsl(5, 77%, 71%),
+    hsl(329, 70%, 58%)
+  ) 1;
+}

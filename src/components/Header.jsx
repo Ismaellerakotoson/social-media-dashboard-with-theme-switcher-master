@@ -1,11 +1,11 @@
 function Header({ isDark, setIsDark }) {
   return (
-    <div className="flex">
-      <div>
-        <h1>Social Media Dashboard</h1>
-        <p>Total Followers: 23,004</p>
+    <div className="flex flex-col mb-5 md:flex-row md:justify-between">
+      <div className="dark:text-white mb-5">
+        <h1 className="text-2xl font-bold mb-2 mt-4">Social Media Dashboard</h1>
+        <p className="font-bold text-light-text">Total Followers: 23,004</p>
       </div>
-      <div className="flex">
+      <div className="flex justify-between border-t pt-5 text-light-text md:gap-2 md:border-t-0">
         <p>Dark Mode</p>
         <button
           onClick={() => setIsDark(!isDark)}

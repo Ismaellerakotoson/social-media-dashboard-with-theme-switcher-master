@@ -4,6 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/social-media-dashboard/',
+  base: '/social-media-dashboard-with-theme-switcher-master/',
   plugins: [react(),tailwindcss()],
 })

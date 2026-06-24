@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Light Mode](./active-states-light.jpg)
-![Dark Mode](./active-states-dark.jpg)
+![Light Mode](./src/assets/images/light_design.png)
+![Dark Mode](./src/assets/images/dark_design.png)
 
 ### Links
 

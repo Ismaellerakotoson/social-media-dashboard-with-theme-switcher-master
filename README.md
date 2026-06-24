@@ -1,6 +1,3 @@
-Voici le README mis à jour dans ton style :
-
-```markdown
 # Frontend Mentor - Social Media Dashboard with Theme Switcher Solution
 
 This is my solution to the [Social Media Dashboard with Theme Switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-media-dashboard-with-theme-switcher-ZpS8ccho).
@@ -31,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Light Mode](./src/assets/images/light_design.png)
-![Dark Mode](./src/assets/images/dark_design.png)
+![Light Mode](./active-states-light.jpg)
+![Dark Mode](./active-states-dark.jpg)
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://github.com/Ismaellerakotoson/social-media-dashboard-with-theme-switcher-master.git)
+- Solution URL: [Github Repository](https://github.com/Ismaellerakotoson/social-media-dashboard-with-theme-switcher-master.git)
 - Live Site URL: [Live Demo](https://ismaellerakotoson.github.io/social-media-dashboard-with-theme-switcher-master)
 
 ---
@@ -89,6 +86,3 @@ In future projects, I want to continue focusing on:
 
 - Frontend Mentor - [@Ismaellerakotoson](https://www.frontendmentor.io/profile/Ismaellerakotoson)
 - GitHub - [@Ismaellerakotoson](https://github.com/ismaellerakotoson)
-```
-
-Adapte juste le lien Live Demo une fois déployé sur GitHub Pages !
